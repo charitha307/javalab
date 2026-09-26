@@ -28,5 +28,4 @@ class ExceptionDemo {
             System.out.println("Cause: " +
                     e.getCause().getMessage());
         }
-    }
-}
+    }}
